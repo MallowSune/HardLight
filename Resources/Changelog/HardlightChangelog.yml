@@ -1493,3 +1493,11 @@ Entries:
       message: Adds a new song to the jukebox!
   id: 158
   time: '2026-03-01T06:21:06.0000000+00:00'
+- author: NotLivyathan
+  changes:
+    - type: Fix
+      message: >-
+        Entities successfully sent to cryospace no longer do something until
+        deletion.
+  id: 159
+  time: '2026-03-01T07:04:57.0000000+00:00'
